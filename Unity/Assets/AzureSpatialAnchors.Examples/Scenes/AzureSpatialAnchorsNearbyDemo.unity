@@ -356,8 +356,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   authenticationMode: 0
-  spatialAnchorsAccountId: 
-  spatialAnchorsAccountKey: 
+  spatialAnchorsAccountId: 7ea482ad-05de-4d47-91c9-345a659c14ef
+  spatialAnchorsAccountKey: StmTkf+NYQknsnPxF5XsI/44uoZ2dlek3mc+AluFn6k=
   clientId: 
   tenantId: 
   logLevel: 2
